@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.reacttoapkapp",
+  "appName": "react-to-apk-app",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
